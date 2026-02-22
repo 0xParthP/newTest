@@ -22,4 +22,4 @@ def isEven(num):
     elif num == 10:
         return True
 
-print(isEven(4))
+print(isEven(5))
